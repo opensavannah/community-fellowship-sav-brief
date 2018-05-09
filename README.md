@@ -46,10 +46,13 @@ Brigade Role: Founder, Co-Captain
 * -Gary Skoglind - Full-Stack Developer, Open Savannah Operations Lead
 * -Theresa 
 * -Amanda Hollowell - Community Organizer with focus on Minority Outreach. Brigade Member.
-* Marcus Howard - ProjectMQ. Game developer. Brigade Member.
+* Malcolm Howelll - ProjectMQ Founder. Game developer. Brigade Member.
 * Sean Geng, Founder, SmokeCartel. Open Savannah Advisory Board.
 * Jonathan Brown, Brigade Member. UX Designer.
 * Aleshia Howell, Project Management, Brigade Member.
+* Jonathan Brown, UX Design, Brigade Member
+* Jonathan Harwell Dye - Brigade Member
+* Martin Sullivan, Assistant to the Mayor and Brigade Memmber, Policy.
 
 #### Non-governmental sponsors:
 + SmokeCartel is our primary sponsor, and has confirmed it will contribute $10,000 solely for this initiative  if the project is approved.
