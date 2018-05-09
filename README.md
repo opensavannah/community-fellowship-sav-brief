@@ -106,7 +106,7 @@ The very first time I ever met with City Hall when starting Open Savannah, parti
 
 The conversation has continued, but the 2018 budget fiasco mentioned above, made it difficult to implement this year as the budget itself wasn't even made public until *after* it had been voted on. There was no public feedback period of any sort. We had no preliminary budget except a 'doomsday' one presented as a way to gain support for a fire fee that eventually balanced the budget.
 
-It was not,  in my opinion, any attempt at ill-will, but rather because of a radical restructuring of city departments combined with a costly demerger of police forces from Chatham County. And a gap in communication.
+It was not, in my opinion, any attempt at ill-will, but rather because of a radical restructuring of city departments combined with a costly demerger of police forces from Chatham County. And a gap in communication.
 
 We've met three times so far with the Office of Budget since the Community Fellowship was announced. We've also visited four neighborhood associations to gather resident feedback. 92 percent of those we surveyed think a participatory budget process would help restore the loss of civic trust, and 81 percent think it would save money overall by preventing duplicative services being funded.
 
@@ -130,7 +130,10 @@ We've met three times so far with the Office of Budget since the Community Fello
 +  If funded, we will bring before Council. I have little doubt that it will receive a unanimous approval.
 
 ### Confidence in securing outside funds to supplement project
-It's already secured. The City has said it will contribute 30 percent of what CfA does, and SmokeCartel at least $10,000. And we've not even reached out to other sources yet.
+
+It's already secured. 
+
+The City has estimated it will contribute 30 percent of what CfA does, and SmokeCartel plus Enmarket as private sector sponsors. And we've not even reached out to other sources yet.
 
 ### Other considerations
 Sure, participatory budgeting may not be a new idea, but to my knowledge, this will be the largest PB project in terms of share of overall budget in U.S. history. Moreover, we are committed to this being an equitable process that takes active measures to reach people who historically haven't voted in municipal elections. Open Savannah has a very strong relationship with the entire Coastal Georgia civic ecosytem. Our Neighborhood Lead attends meetings on our behalf; our advisory board holds positions of influence; and we've focused our first year on building relationships before apps. Process over product.
