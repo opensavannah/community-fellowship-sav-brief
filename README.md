@@ -1,7 +1,9 @@
 # Community Fellowship Application - Open Savannah - Addendum
 
-TOPLIINE SUMMARY OF PROPOSED PROJECT: 
-After discussions with city officials, community members, brigade leaders, and Code for America staffers, we’ve decided to move forward in submitting a project application for an inclusive, geotargeted and equitable participatory budgeting (PB) process that would aim to engage typically excluded and marginalized portions of the community on their levels – as well as the entire citizenry at large – in helping decide how at least $187,350,000.00 in General Funds of the City’s budget for FY ’19  would be allocated (with incredibly broad funding powers, but not anarchy). Because of the City’s tourism industry, more than half the budget in total falls into this category.  Melissa Carter of the City’s Office of Budget and Research informed us late Friday (May 4) that the City Manager has given the green light to allow the fellowship project to give the public direct say in how their tax dollars are spent. A citizen-driven steering committee will vet proposals.
+##### TOPLIINE SUMMARY OF PROPOSED PROJECT: 
+* After discussions with city officials, community members, brigade leaders, and Code for America staffers, we’ve decided to move forward in submitting a project application for an inclusive, geotargeted and equitable participatory budgeting (PB) process that would aim to engage typically excluded and marginalized portions of the community on their levels – as well as the entire citizenry at large – in helping decide how at least $187,350,000.00 in General Funds of the City’s budget for FY ’19  would be allocated (with incredibly broad funding powers, but not anarchy). Because of the City’s tourism industry, more than half the budget in total falls into this category.  Melissa Carter of the City’s Office of Budget and Research informed us late Friday (May 4) that the City Manager has given the green light to allow the fellowship project to give the public direct say in how their tax dollars are spent. A citizen-driven steering committee will vet proposals.*
+
+
 
 ### Part One: 
 **Name of primary applicant**: Carl V. LLewis
@@ -131,9 +133,6 @@ It's already secured. The City has said it will contribute 30 percent of what Cf
 Sure, participatory budgeting may not be a new idea, but to my knowledge, this will be the largest PB project in terms of share of overall budget in U.S. history. Moreover, we are committed to this being an equitable process that takes active measures to reach people who historically haven't voted in municipal elections. Open Savannah has a very strong relationship with the entire Coastal Georgia civic ecosytem. Our Neighborhood Lead attends meetings on our behalf; our advisory board holds positions of influence; and we've focused our first year on building relationships before apps. Process over product.
 
 Moreover, if succesful, the City would no doubt repeat the project in future years. As the editor of *Connect Savannah* put it, leaders are desperate to the point of historic measures to regain the public's trust after the budget travails of the past two years and a growing "civil war" over gentrification and development projects.
-
-
-with narrative hold the power to shift mindsets and inform and engage our communities. I believe information is power. 
 
 
 ## About me
