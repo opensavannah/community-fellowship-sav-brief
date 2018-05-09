@@ -11,6 +11,7 @@ cv.carlvlewis.net
 resume.carlvlewis.net
 https://carlvlewis.github.io
 Brigade Role: Founder, Co-Captain
+
 **Predominant Skillsets:**
 + Design
 + Engineering
