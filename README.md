@@ -183,7 +183,7 @@ Brigade Members Who’ve Expressed Interest in this Project
 -Gary Skoglind - Full-Stack Developer, Open Savannah Operations Lead
 -Terri Jones, Grocery clerk by day, volunteer poverty fighter 24/7. Recent graduate of Leadership Savannah who is spearheading a shuttle program to help downtown workers commute from their residence to their place of employment. 
 -Amanda Hollowell - Community Organizer with focus on Minority Outreach. 
--Marcus Howelll - Founder of ProjectMQ, indie game developer
+-Marcus Howelll - Founder of [ProjectMQ](https://www.projectmq.com/login/?next=/), indie game developer
 
 ### Why participatory budgeting?
 
@@ -201,7 +201,6 @@ This, on its face, fits within the ‘Good Government’ bucket of the Savannah 
 
 For this empowerment-oriented PB project, we’re tentatively budgeting the following roles would be needed:
 
-Prodict 
 Project Manager (1) - 6 months of work ~20-25 hrs/week, $6.5K stipend
 Data Analyst (1), 4 months of work ~~25 hrs/week, $6.5K stipend.
 Geospatial Developer (1) - 4 mos. of ~25 hrs/week, $6.5K stipend.
@@ -210,7 +209,7 @@ Community Outreach Specialists (3) - 2.5 months of ~10 hrs./week, $2.5K stipend 
 Ethnographer and/or civic service design consultant (1) - 2 months of ~15 hrs/week $2.5K stipend.
 Policy Coordinator/City Liason (1) - 6 mos. of ~10 hrs./week @ $3K
 Multiplatform content creator (1) - 6 mos. of ~10 hrs./week @ $2.5K
-Nonprofit and civic group liasion
+Nonprofit and civic group liasion (1) - 2 mos. of ~5hrs/week @ $1K
 
 
 
