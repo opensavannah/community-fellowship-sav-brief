@@ -6,7 +6,7 @@
 
 
 ### Part One: 
-**Name of primary applicant**: Carl V. LLewis
+**Name of primary applicant**: Carl V. Lewis
 **Email: **carl@opensavannah.org
 [LinkedIn](linkedin.com/in/carlvlewis)
 cv.carlvlewis.net
