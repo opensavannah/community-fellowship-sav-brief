@@ -214,6 +214,8 @@ Policy Coordinator/City Liason (1) - 6 mos. of ~10 hrs./week @ $3K
 Multiplatform content creator (1) - 6 mos. of ~10 hrs./week @ $2.5K
 Nonprofit and civic group liasion (1) - 2 mos. of ~5hrs/week @ $1K
 
+*Note: Missed earlier template in GSheets; will convert to a spreadsheet and add here*
+
 
 
 
