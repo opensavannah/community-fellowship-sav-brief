@@ -93,52 +93,62 @@ To confirm these details additionally, Saja Aures, the Director of the City of S
 ### About the Fellowship Project
 #### Problem Statement
 
-In Savannah, our [civic bank account](https://www.connectsavannah.com/savannah/depleting-the-civic-bank-account/Content?oid=8098067) has been depleted. 
+In Savannah, our [civic bank account](https://www.connectsavannah.com/savannah/depleting-the-civic-bank-account/Content?oid=8098067) has been depleted, and trust in local government has reached historic lows. 
 
-As a result of an unplanned $12 million revenue shortfall, funding for social services and nonprofit initiatives for the vulnerable (SSP grants) was reduced by approximately 40 percent in 2018, from $1.2 million to less than $800,000.00. The City closed its only two publicly-funded  homeless shelters; it defunded the Rape Crisis Center altogether; it closed its Entrepreneurial Center altogether. It also ended its Women and Minority Small Business Program. It goes without saying that residents weren't happy about the cuts.
+As a result of an unplanned and poorly-communicated $12 million revenue shortfall, funding for social services and nonprofit initiatives for the vulnerable (SSP grants) was reduced by approximately 40 percent in 2018, from $1.2 million to less than $800,000.00. **The City closed its only two publicly-funded  homeless shelters; it defunded the Rape Crisis Center altogether; it closed its Entrepreneurial Center altogether. It also ended its Women and Minority Small Business Program.** It goes without saying that residents weren't happy about the cuts.
 
 
-Then, two weeks ago, it was announced that the City actually ended its fiscal year with a **surplus** of $10 million, meaning that the draconian  cuts to  programs to alleviate poverty were esssentially unnecessary. What we face on both sides is a failure to understand or communicate budget operations. We've done projects such as openbudgetsav.org, but more than that will be needed to restore the civic bank account to a positive balance. (154 wds)
+Then, two weeks ago, it was spontaneously and bizzarely announced that the City actually ended its fiscal year with a **surplus** of $10 million, meaning that the draconian  cuts to  programs to alleviate poverty were esssentially unnecessary. 
+What we face on both sides is a failure to understand or communicate budget operations. We've done projects such as [openbudgetsav.org](http://openbudgetsav.org), but more than that will be needed to restore the civic bank account to a positive balance. To reach those most affected by social safety net programs, it will take more than a visualization. It wil take a multipronged process.
 
 ### Discovery work
 
-The very first time I ever met with City Hall when starting Open Savannah, participatory budgeting was mentioned as a dream thing for the City so that constituents would understand *why* things work the way they do. That was 13 months ago.
+The very first time I ever met with City Hall when starting Open Savannah, participatory budgeting was mentioned as a dream project for the City so that constituents would understand *why* things work the way they do. That was 13 months ago.
 
-The conversation has continued, but the 2018 budget fiasco mentioned above, made it difficult to implement this year as the budget itself wasn't even made public until *after* it had been voted on. There was no public feedback period of any sort. We had no preliminary budget except a 'doomsday' one presented as a way to gain support for a fire fee that eventually balanced the budget.
+The conversation has continued, but the 2018 budget fiasco mentioned above made it difficult to implement this year as the budget itself wasn't even made public until *after* it had been voted on. There was no public feedback period of any sort. We had no preliminary budget except a 'doomsday' one presented as a way to gain support for a fire fee that eventually balanced the budget.
 
-It was not, in my opinion, any attempt at ill-will, but rather because of a radical restructuring of city departments combined with a costly demerger of police forces from Chatham County. And a gap in communication.
+It was not, in my opinion, any attempt at ill-will, but rather the result of a radical restructuring of city departments combined with a costly demerger of police forces from Chatham County. And a gap in communication.
 
-We've met three times so far with the Office of Budget since the Community Fellowship was announced. We've also visited four neighborhood associations to gather resident feedback. 92 percent of those we surveyed think a participatory budget process would help restore the loss of civic trust, and 81 percent think it would save money overall by preventing duplicative services being funded.
+We've met three times so far with the Office of Budget since the Community Fellowship was announced. We've also visited four neighborhood associations to gather resident feedback **92 percent of those we surveyed think a participatory budget process would help restore the loss of civic trust,while 8 percent said that not even the strongest measures would convince them that city leaders aren't in the pockets of developers. Additionally, 81 percent think it would save money overall by preventing duplicative services from being funded, and by creating an environment of open innovation that enables cost-saving projects pitched by, for and with residents.
 
 ### Vulnerable populations who this will help
 
-1. Anyone who wants to start a business but needs help with the process
-2. Homeless or hungry
+1. Any recipient or user of city-funded anti-poverty services or programs, who will have the chance to have their funding restored. 
+2. Anyone who wants to start a business but needs help with the process (the City disbanded of a number of loan programs, and closed its Entrepreneurial Center altogether.
+2. Homeless or hungry who lack shelters or soup kitchens other than those provided by religious instituttions
 3. A more equitable distribution of $200 million in GF revenues that funds anti-poverty initiatives.
 4. Black residents whose districts have been gerrymandered to a point where they have lost political power.
 5. Those living on the poverty line faced with imminent displacement because of the rapid rate of gentrification in the City.
-6. Victims of sexual abuse, assault.
+6. Victims of sexual abuse, assault, or rape dealing with trauma–without the Rape Crisis Center, there's little other places for them to receive the counseling they need.
 7. Those who lack transportation to work and need the bus system to run later hours.
 8. Hospitality workers, who account for 30 percent of the workforce, and who have zero municipal rights that guarantee they have transportation to work.
-9. The addicted – The only publicly-funded support net for addiction closed three years ago. 
-10. Residents in areas with historically low voter turnouts.
+9. The addicted – The only publicly-funded support net for alcohol and drug addiction closed three years ago. Now it's entirely the purview of highly lucrative rehab facilities.
+10. Residents in areas with historically low voter turnouts whose voices and desires have been silenced historically.
 
 ### How we'll work with the City
-+ We'lll work out of City Hall
-+ The City Manager has officially signed off on the project. 
++ We'lll work out of City Hall to craft a 5 month-plan based upon prior research from Harvard's Ash Center and ParticipatoryBudgeting.org. 
+	+ 1. Design the process and build the engagement tools (interactive budget balancing simulator, rich SMS surveying, analysis of historic voting patterns, GIS work to identify most needed areas to canvass, marketing plan, public meeting schedule). This will be our steering commmitte, representative of the community, to create the rules in partnership with government officials to ensure the process is inclusive and meets local needs.
+	2. Brainstorm Ideas - We'll deploy DemocracyOS as well as a free beta of groundsource.co (AI-powered SMS surveys) to gather feedback online regarding ideas residents have for how the GF should be allocated more equitably, and also create a Twillio text-in number to advertise with our in-kind media partners and on bumper stickers of those backing the process. The simulator will also record ideas. Furthermore, we will distribute the Outreach Team to attend the neighborhood association meetings of all 56 neighborhoods within the City Limits.
+	3. Develop proposals - Volunteers, or what we're calling "budget delegates," develop the ideas into feasible proposals, which are then vetted by policy experts on the team.
+	4. Residents vote to divide the available budget between the proposals. It’s a direct, democratic voice in their community’s future, and a highly impactful way to empower residents to get more engaged in the democratic process. It will also be a sign of restoring civic trust among the disillusioned residents, and give Open Savannah a level of credibility necessary for future innovation efforts.
+	5. Fund the winning projects - The government implements the winning projects, such as laptops in schools, Wi-Fi in public parks, or traffic safety improvements. The government and residents track and monitor implementation.
+
++ The City Manager has officially signed off on the project, with verbal estimates of funding 30 percent of whatever CfA funds. 
 +  The Mayor has approved the project.
-+  If funded, we will bring before Council. I have little doubt that it will receive a unanimous approval.
++  If selected as a Fellowship Project, we will bring before Council. I have little doubt that it will receive unanimous approval.
 
 ### Confidence in securing outside funds to supplement project
 
-It's already secured. 
+It's already secured!
 
 The City has estimated it will contribute 30 percent of what CfA does, and SmokeCartel plus Enmarket as private sector sponsors. And we've not even reached out to other sources yet.
 
-### Other considerations
-Sure, participatory budgeting may not be a new idea, but to my knowledge, this will be the largest PB project in terms of share of overall budget in U.S. history. Moreover, we are committed to this being an equitable process that takes active measures to reach people who historically haven't voted in municipal elections. Open Savannah has a very strong relationship with the entire Coastal Georgia civic ecosytem. Our Neighborhood Lead attends meetings on our behalf; our advisory board holds positions of influence; and we've focused our first year on building relationships before apps. Process over product.
+And, no, SmokeCartel is not a tiny local headshop. It's a publicly-traded, Savannah-based e-commerce behemoth with founders who are dedicated to reducing the arrest rate for low-level offenses in minority communities. 
 
-Moreover, if succesful, the City would no doubt repeat the project in future years. As the editor of *Connect Savannah* put it, leaders are desperate to the point of historic measures to regain the public's trust after the budget travails of the past two years and a growing "civil war" over gentrification and development projects.
+### Other considerations
+Sure, participatory budgeting may not be a new idea, but to my knowledge, **this will be the largest PB project in terms of share of overall budget in U.S. history.** Moreover, we are committed to making this an equitable process that takes active measures to reach people who historically haven't voted in municipal elections. Open Savannah has a very strong relationship with the entire Coastal Georgia civic ecosytem. Our Neighborhood Lead attends meetings on our behalf; our advisory board holds positions of influence; and we've focused our first year on building relationships before apps. Process over product.
+
+Moreover, if succesful, the City would no doubt repeat the project in future years, especially if it improves their re-election chances. As the editor of *Connect Savannah* put it, our local leaders are desperate to the point of historic measures to regain the public's trust after the budget travails of the past two years and a growing "civil war" over gentrification and development projects.
 
 
 ## About me
@@ -160,7 +170,7 @@ Collaboration has been the key to Open Savannah's success so far, and I would ar
 
 Take a look at our leadership team and advisory board (https://opensavannah.org/who-we-are). Just our leadership alone is a powerhouse of local civic and local emerging technology and public sector movers-and-shakers.
 
-As for the project team, I put out an open call for PB project volunteers two weeks ago. We've received 32 interested participants.
+As for the project team, I put out an open call for PB project volunteers two weeks ago. *We've already received 32 interested volunteers, and 12 interested fellows from expert backgrounds.*
 
 We’ve met to discuss skills, needs, roles, etc., and we feel the following individuals would make strong fellows (including one who happens to be the guy who created Homebrew; no big!).
 
@@ -195,6 +205,8 @@ A city’s annual municipal budget is said to be the truest reflection of its va
 Given the opportunity to have a say over all $200 million is an accomplishment we are proud the City has entrusted us to carry out in collaboration with them. 
 
 Furthermore,  given the robust game developer ecosystem in Savannah, we have a unique opportunity to add gamification to the digital component of the project.
+
+And before the wounds heal regarding the draconian measures taken in 2018, it will be difficult to bridge the city-citizen divide.
 
 
 ### Alignment with city plan
