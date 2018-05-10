@@ -113,19 +113,18 @@ We've met three times so far with the Office of Budget since the Community Fello
 
 ### Vulnerable populations who this will help
 
-(while this list is broad, we would identify a single user persona from this list on which to focus our engagement efforst during the design sprint at the start of the project)
+(*while this list is broad, we would identify a single user persona from this list on which to focus our engagement efforts during the design sprint at the start of the project*)
 
-1. Any recipient or user of city-funded anti-poverty services or programs, who will have the chance to have their funding restored. 
-2. Anyone who wants to start a business but needs help with the process (the City disbanded of a number of loan programs, and closed its Entrepreneurial Center altogether.
+ 
+1. Anyone who wants to start a business but needs help with the process (the City disbanded of a number of loan programs, and closed its Entrepreneurial Center altogether.
 2. Homeless or hungry who lack shelters or soup kitchens other than those provided by religious instituttions
-3. A more equitable distribution of $200 million in GF revenues that funds anti-poverty initiatives.
-4. Black residents whose districts have been gerrymandered to a point where they have lost political power.
-5. Those living on the poverty line faced with imminent displacement because of the rapid rate of gentrification in the City.
-6. Victims of sexual abuse, assault, or rape dealing with trauma–without the Rape Crisis Center, there's little other places for them to receive the counseling they need.
-7. Those who lack transportation to work and need the bus system to run later hours.
-8. Hospitality workers, who account for 30 percent of the workforce, and who have zero municipal rights that guarantee they have transportation to work.
-9. The addicted – The only publicly-funded support net for alcohol and drug addiction closed three years ago. Now it's entirely the purview of highly lucrative rehab facilities.
-10. Residents in areas with historically low voter turnouts whose voices and desires have been silenced historically.
+3. Black residents whose districts have been gerrymandered to a point where they have lost political power.
+4. Those living on the poverty line faced with imminent displacement because of the rapid rate of gentrification in the City.
+5. Victims of sexual abuse, assault, or rape dealing with trauma–without the Rape Crisis Center, there's little other places for them to receive the counseling they need.
+6. Those who lack transportation to work and need the bus system to run later hours.
+7. The addicted – The only publicly-funded support net for alcohol and drug addiction closed three years ago. Now it's entirely the purview of highly lucrative rehab facilities.
+8. Residents in areas with historically low voter turnouts whose voices and desires have been silenced historically.
+9. Any recipient or user of city-funded anti-poverty services or programs, who will have the chance to have their funding restored.
 
 ### How we'll work with the City
 + We'lll work out of City Hall to craft a 5 month-plan based upon prior research from Harvard's Ash Center and ParticipatoryBudgeting.org. 
