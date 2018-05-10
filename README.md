@@ -1,6 +1,6 @@
 # Community Fellowship Application - Open Savannah
 
-##### TOPLIINE SUMMARY OF PROPOSED PROJECT: 
+##### TOPLIINE SUMMARY OF PROPOSED PROJECT: (not a field in submission form; for background only)
 * After discussions with city officials, community members, brigade leaders, and Code for America staffers, we’ve decided to move forward in submitting a project application for an inclusive, geotargeted and equitable participatory budgeting (PB) process that would aim to engage typically excluded and marginalized portions of the community on their levels – as well as the entire citizenry at large – in helping decide how at least $187,350,000.00 in General Funds of the City’s budget for FY ’19  would be allocated (with incredibly broad funding powers, but not anarchy). Because of the City’s tourism industry, more than half the budget in total falls into this category.  Melissa Carter of the City’s Office of Budget and Research informed us late Friday (May 4) that the City Manager has given the green light to allow the fellowship project to give the public direct say in how their tax dollars are spent. A citizen-driven steering committee will vet proposals.*
 
 
@@ -113,6 +113,8 @@ We've met three times so far with the Office of Budget since the Community Fello
 
 ### Vulnerable populations who this will help
 
+(while this list is broad, we would identify a single user persona from this list on which to focus our engagement efforst during the design sprint at the start of the project)
+
 1. Any recipient or user of city-funded anti-poverty services or programs, who will have the chance to have their funding restored. 
 2. Anyone who wants to start a business but needs help with the process (the City disbanded of a number of loan programs, and closed its Entrepreneurial Center altogether.
 2. Homeless or hungry who lack shelters or soup kitchens other than those provided by religious instituttions
@@ -127,11 +129,11 @@ We've met three times so far with the Office of Budget since the Community Fello
 
 ### How we'll work with the City
 + We'lll work out of City Hall to craft a 5 month-plan based upon prior research from Harvard's Ash Center and ParticipatoryBudgeting.org. 
-	+ 1. Design the process and build the engagement tools (interactive budget balancing simulator, rich SMS surveying, analysis of historic voting patterns, GIS work to identify most needed areas to canvass, marketing plan, public meeting schedule). This will be our steering commmitte, representative of the community, to create the rules in partnership with government officials to ensure the process is inclusive and meets local needs.
-	2. Brainstorm Ideas - We'll deploy DemocracyOS as well as a free beta of groundsource.co (AI-powered SMS surveys) to gather feedback online regarding ideas residents have for how the GF should be allocated more equitably, and also create a Twillio text-in number to advertise with our in-kind media partners and on bumper stickers of those backing the process. The simulator will also record ideas. Furthermore, we will distribute the Outreach Team to attend the neighborhood association meetings of all 56 neighborhoods within the City Limits.
-	3. Develop proposals - Volunteers, or what we're calling "budget delegates," develop the ideas into feasible proposals, which are then vetted by policy experts on the team.
-	4. Residents vote to divide the available budget between the proposals. It’s a direct, democratic voice in their community’s future, and a highly impactful way to empower residents to get more engaged in the democratic process. It will also be a sign of restoring civic trust among the disillusioned residents, and give Open Savannah a level of credibility necessary for future innovation efforts.
-	5. Fund the winning projects - The government implements the winning projects, such as laptops in schools, Wi-Fi in public parks, or traffic safety improvements. The government and residents track and monitor implementation.
+	 1. **Design the process** and build the engagement tools (interactive budget balancing simulator, rich SMS surveying, analysis of historic voting patterns, GIS work to identify most needed areas to canvass, marketing plan, public meeting schedule). This will be our steering commmitte, representative of the community, to create the rules in partnership with government officials to ensure the process is inclusive and meets local needs.
+	2. **Brainstorm Ideas** - We'll deploy DemocracyOS as well as a free beta of groundsource.co (AI-powered SMS surveys) to gather feedback online regarding ideas residents have for how the GF should be allocated more equitably, and also create a Twillio text-in number to advertise with our in-kind media partners and on bumper stickers of those backing the process. The simulator will also record ideas. Furthermore, we will distribute the Outreach Team to attend the neighborhood association meetings of all 56 neighborhoods within the City Limits.
+	3. **Develop proposals** - Volunteers, or what we're calling "budget delegates," develop the ideas into feasible proposals, which are then vetted by policy experts on the team.
+	4. **Vote** - Residents vote to divide the available budget between the proposals. It’s a direct, democratic voice in their community’s future, and a highly impactful way to empower residents to get more engaged in the democratic process. It will also be a sign of restoring civic trust among the disillusioned residents, and give Open Savannah a level of credibility necessary for future innovation efforts.
+	5. **Fund the winning projects** - The government implements the winning projects, such as laptops in schools, Wi-Fi in public parks, or traffic safety improvements. The government and residents track and monitor implementation.
 
 + The City Manager has officially signed off on the project, with verbal estimates of funding 30 percent of whatever CfA funds. 
 +  The Mayor has approved the project.
@@ -207,10 +209,7 @@ Given the opportunity to have a say over all $200 million is an accomplishment w
 Furthermore,  given the robust game developer ecosystem in Savannah, we have a unique opportunity to add gamification to the digital component of the project.
 
 And before the wounds heal regarding the draconian measures taken in 2018, it will be difficult to bridge the city-citizen divide.
-
-
-### Alignment with city plan
-This, on its face, fits within the ‘Good Government’ bucket of the Savannah Forward Strategic Plan, but it goes beyond ‘good government’ toward aiming for ‘engaged citizens’ more specifically. While no mandate of any sort will exist to force the City adhere to the results of the PB process formally, all aspects of the voting and selection would be done in the open for the public to monitor during and after the PB process has finished in Aug/Sept..        
+      
 
 ## Estimated Roles/Timeline
 
