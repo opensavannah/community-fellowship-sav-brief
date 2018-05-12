@@ -1,17 +1,23 @@
 # Community Fellowship Application - Open Savannah
 
-##### TOPLIINE SUMMARY OF PROPOSED PROJECT: (not a field in submission form; for background only)
+##### TOPLIINE SUMMARY OF PROPOSED PROJECT: (*not a field in submission form; for background only*)
 * After discussions with city officials, community members, brigade leaders, and Code for America staffers, we’ve decided to move forward in submitting a project application for an inclusive, geotargeted and equitable participatory budgeting (PB) process that would aim to engage typically excluded and marginalized portions of the community on their levels – as well as the entire citizenry at large – in helping decide how at least $187,350,000.00 in General Funds of the City’s budget for FY ’19  would be allocated (with incredibly broad funding powers, but not anarchy). Because of the City’s tourism industry, more than half the budget in total falls into this category.  Melissa Carter of the City’s Office of Budget and Research informed us late Friday (May 4) that the City Manager has given the green light to allow the fellowship project to give the public direct say in how their tax dollars are spent. A citizen-driven steering committee will vet proposals.*
 
 
 
 ### Part One: 
 **Name of primary applicant**: Carl V. Lewis
+
 **Email: **carl@opensavannah.org
+
 [LinkedIn](linkedin.com/in/carlvlewis)
+
 cv.carlvlewis.net
+
 resume.carlvlewis.net
+
 https://carlvlewis.github.io
+
 Brigade Role: Founder, Co-Captain
 
 **Predominant Skillsets:**
