@@ -61,7 +61,7 @@ Brigade Role: Founder, Co-Captain
 * Martin Sullivan, Assistant to the Mayor and Brigade Memmber, Policy.
 
 #### Non-governmental sponsors:
-+ SmokeCartel is our primary sponsor, and likely will contribute for this initiative  if the project is approved.
++ SmokeCartel to help hopefully financially for this initiative  if the project is approved.
 	+ CONTACT: Sean Geng, CEO and Founder, SmokeCartel. sean@smokecartel.com, phone: (912) 319-7199
 + Enmarket is our secondary sponsor; while we haven't nailed down a precise contribution from them yet for this, we have received verbal word they would contribute.
 	+ Primary Contact: Matt Clements, mclements@enmarket.com, 
