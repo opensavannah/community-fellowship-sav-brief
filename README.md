@@ -223,20 +223,6 @@ Furthermore,  given the robust game developer ecosystem in Savannah, we have a u
 And before the wounds heal regarding the draconian measures taken in 2018, it will be difficult to bridge the city-citizen divide.
       
 
-## Estimated Roles/Timeline
-
-For this empowerment-oriented PB project, we’re tentatively budgeting the following roles would be needed:
-
-Project Manager (1) - 6 months of work ~20-25 hrs/week, $6.5K stipend
-Data Analyst (1), 4 months of work ~~25 hrs/week, $6.5K stipend.
-Geospatial Developer (1) - 4 mos. of ~25 hrs/week, $6.5K stipend.
-Designer/Front-End Developer (1) - 4 mos. of ~15-20 hrs/week, $6.5k stipend
-Community Outreach Specialists (3) - 2.5 months of ~10 hrs./week, $2.5K stipend each
-Ethnographer and/or civic service design consultant (1) - 2 months of ~15 hrs/week $2.5K stipend.
-Policy Coordinator/City Liason (1) - 6 mos. of ~10 hrs./week @ $3K
-Multiplatform content creator (1) - 6 mos. of ~10 hrs./week @ $2.5K
-Nonprofit and civic group liasion (1) - 2 mos. of ~5hrs/week @ $1K
-
 
 ## Estimated Roles/Timeline
 
