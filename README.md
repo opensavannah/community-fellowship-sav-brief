@@ -61,7 +61,7 @@ Brigade Role: Founder, Co-Captain
 * Martin Sullivan, Assistant to the Mayor and Brigade Memmber, Policy.
 
 #### Non-governmental sponsors:
-+ SmokeCartel is our primary sponsor, and has confirmed it will contribute $10,000 solely for this initiative  if the project is approved.
++ SmokeCartel is our primary sponsor, and likely will contribute for this initiative  if the project is approved.
 	+ CONTACT: Sean Geng, CEO and Founder, SmokeCartel. sean@smokecartel.com, phone: (912) 319-7199
 + Enmarket is our secondary sponsor; while we haven't nailed down a precise contribution from them yet for this, we have received verbal word they would contribute.
 	+ Primary Contact: Matt Clements, mclements@enmarket.com, 
@@ -205,6 +205,13 @@ Brigade Members Who’ve Expressed Interest in this Project
 -Amanda Hollowell - Community Organizer with focus on Minority Outreach. 
 -Marcus Howelll - Founder of [ProjectMQ](https://www.projectmq.com/login/?next=/), indie game developer
 
+
+### Open Savannah Involement
+
+We currently have around 25-30 people attend our biweekly community action nights from a diversity of backgrounds, not counting Core Leadership.  We operate the largest Meetup group in Coastal Ga. (302!) other than the ‘Resistance’ political grassroots movement that has 459 members. Our mailing list has 479 unique email addresses. And our weekly presence in the daily newspaper further diversifies the new members who we never knew called Savannah home.
+
+All of that is to say we have never have much difficulty finding people to offer their hands up. So, we see the Brigade filling in much of the locality knowledge gaps, as well as working as time permits on the project directly as a volunteer. We do all projects without silos, free of hierarchy, and adhere to disciplined sprints. All members may receive free agile design and development via Ga Tech Savannah’s campus that meets at Bull Street Labs. Our sponsor Codebase also offers iOS courses for free to Brigade members, and the Creative Coast just received a grant from Google to start a Girls Who Code chapter to work in tandem with us.
+
 ### Why participatory budgeting?
 
 A city’s annual municipal budget is said to be the truest reflection of its values. In 2018, the municipal budget in Savannah acted as a catalyst  for fomenting  widespread citizen distrust and an even more intractable  divide between city and citizen. 
@@ -229,6 +236,29 @@ Ethnographer and/or civic service design consultant (1) - 2 months of ~15 hrs/we
 Policy Coordinator/City Liason (1) - 6 mos. of ~10 hrs./week @ $3K
 Multiplatform content creator (1) - 6 mos. of ~10 hrs./week @ $2.5K
 Nonprofit and civic group liasion (1) - 2 mos. of ~5hrs/week @ $1K
+
+
+## Estimated Roles/Timeline
+
+For this empowerment-oriented PB project, we’re tentatively budgeting the following roles would be needed:
+
+
+- Project Manager (1) - 6 months of work ~20-25 hrs/week, $6.5K stipend
+- Data Analyst (1), 4 months of work ~~25 hrs/week, $6.5K stipend.
+- Geospatial Analyst/Developer (1) - 4 mos. of ~25 hrs/week, $6.5K stipend.
+- Designer/Front-End Developer (1) - 4 mos. of ~15-20 hrs/week, $6.5k stipend
+- Community Outreach Specialists (2) - 2.5 months of ~10 hrs./week, $2.5K stipend each
+- Ethnographer and/or civic service design consultant (1) - 2 months of ~15 hrs/week $2.5K stipend.
+- Policy Coordinator/City Liason (1) - 6 mos. of ~10 hrs./week @ $3K
+- Storyteller - Blogs at least 3x weekly with progress updates on process at participatoryprojectsavannah.io
+- Community Canvas Team Lead
+  - Volunteer Canvassing Role
+  - Volunteer Canvassing
+
+Project Kickoff: June 1, 2018
+Project Finish:  Sept. 1, 2018
+Public Comment Period: Sept. 1-30
+Handed to City Officials to Vote: Oct. 1
 
 *Note: Missed earlier template in GSheets; will convert to a spreadsheet and add here*
 
