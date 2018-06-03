@@ -111,7 +111,7 @@ What we face on both sides is a disconnect in understanding and contextualizing 
 
 The very first time I ever met with City Hall when starting Open Savannah, participatory budgeting was mentioned as a dream project for the City so that constituents would understand *why* things work the way they do. That was 13 months ago.
 
-The conversation has continued, but the 2018 budget fiasco mentioned above made it difficult to implement this year as the budget itself wasn't even made public until *after* it had been voted on. There was no public feedback period of any sort. We had no preliminary budget except a 'doomsday' one presented as a way to gain support for a fire fee that eventually balanced the budget.
+The conversation has continued, but the 2018 budget fiasco mentioned above made it difficult to implement this year as the budget itself wasn't even made public online until *after* it had been voted on.
 
 It was not, in my opinion, any attempt at ill-will, but rather the result of a radical restructuring of city departments combined with a costly demerger of police forces from Chatham County. And a gap in communication.
 
