@@ -75,7 +75,7 @@ Brigade Role: Founder, Co-Captain
 
 
 #### Local Government Leaders Supporting This Initiative
-+ The City Manager and Office of Budget have expressed support for our proposal; the CM makes all executive decisions, and can only be vetoed by a 6-3 vote or more by City Council.
++ The City Manager and Office of Budget have expressed support for our proposal.
 	+ Contact: Office of City Manager Rob Hernandez, City of Savannah, rhernandez@savannnahga.gov, (912) 651-6415.
 + The Mayor of the City of Savannah also backs our initiative, although he has no administrative powers under the City's weak mayor structure.
 	+ Primary Contact: Mayor Eddie Deloach, edeloach@savannahga.gov, 9126516444
