@@ -75,7 +75,7 @@ Brigade Role: Founder, Co-Captain
 
 
 #### Local Government Leaders Supporting This Initiative
-+ The City Manager has signed off on our proposal with full support; he makes all executive decisions, and can only be vetoed by a 6-3 vote or more by City Council.
++ The City Manager and Office of Budget have expressed support for our proposal; the CM makes all executive decisions, and can only be vetoed by a 6-3 vote or more by City Council.
 	+ Contact: Office of City Manager Rob Hernandez, City of Savannah, rhernandez@savannnahga.gov, (912) 651-6415.
 + The Mayor of the City of Savannah also backs our initiative, although he has no administrative powers under the City's weak mayor structure.
 	+ Primary Contact: Mayor Eddie Deloach, edeloach@savannahga.gov, 9126516444
@@ -101,10 +101,9 @@ To confirm these details additionally, Saja Aures, the Director of the City of S
 
 In Savannah, our [civic bank account](https://www.connectsavannah.com/savannah/depleting-the-civic-bank-account/Content?oid=8098067) has been depleted, and trust in local government has reached historic lows. 
 
-As a result of an unplanned and poorly-communicated $12 million revenue shortfall, funding for social services and nonprofit initiatives for the vulnerable (SSP grants) was reduced by approximately 40 percent in 2018, from $1.2 million to less than $800,000.00. **The City closed its only two publicly-funded  homeless shelters; it defunded the Rape Crisis Center altogether; it closed its Entrepreneurial Center altogether. It also ended its Women and Minority Small Business Program.** It goes without saying that residents weren't happy about the cuts.
+As a result of an unplanned and poorly-communicated $12 million revenue shortfall, funding for social services and nonprofit initiatives for the vulnerable (SSP grants) was reduced by approximately 40 percent in 2018, from $1.2 million to less than $800,000.00. **The city defunded the Rape Crisis Center altogether; it closed its Entrepreneurial Center altogether. It also disbanded its Women and Minority Small Business Program.** It goes without saying that many residents weren't happy about the cuts.
 
-
-Then, two weeks ago, it was spontaneously announced that the City actually ended its fiscal year with a **surplus** of $10 million, meaning that the  cuts to social programs were esssentially unnecessary. 
+Then, two weeks ago, it was  announced that the City actually ended its fiscal year with a **surplus** of $10 million, meaning that the  cuts to social programs were esssentially unnecessary. 
 
 What we face on both sides is a disconnect in understanding and contextualizing budget operations and resident desires for spending. We've done projects such as [openbudgetsav.org](http://openbudgetsav.org), but more than that will be needed to restore the civic bank account to a positive balance. To reach those most affected by social safety net programs, it will take more than a visualization. It wil take a multipronged process.
 
